@@ -1,8 +1,7 @@
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 40727AC9
-/// @DnDApplyTo : 0e17c2b4-1906-48d6-a912-d0e79b060f15
-with(CoinObject) instance_destroy();
+instance_destroy();
 
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
