@@ -4,7 +4,7 @@ if (jumping || falling)
 		sprite_index = Brownie;
 	else if (room == room1)
 		sprite_index = Brown;
-	else
+	else if (room == room2)
 		sprite_index = Browneth;
 }
 	
