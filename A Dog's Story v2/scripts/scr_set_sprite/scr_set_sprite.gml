@@ -10,10 +10,10 @@ if (jumping || falling)
 	
 if (!jumping && !falling) 
 {
-	if (room == room0)
+	if (room == room0 || room == tutorial)
 		sprite_index = Brownie;
-	else if (room == room1)
+	else if (room == room1 || room == transition1)
 		sprite_index = Brown;
-	else
+	else if (room == room2 || room == transition2)
 		sprite_index = Browneth;
 }

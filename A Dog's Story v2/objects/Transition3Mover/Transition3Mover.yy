@@ -2,7 +2,7 @@
     "id": "bf2bf1a5-2975-4a88-ab90-98122abef661",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "MenuMover1111",
+    "name": "Transition3Mover",
     "eventList": [
         {
             "id": "919aaf06-c017-4a25-8573-1bf8d2670423",

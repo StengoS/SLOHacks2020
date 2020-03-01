@@ -1,28 +1,18 @@
 {
-    "id": "fd855e60-c71b-41e3-b1b6-0cee4848d7e8",
+    "id": "e6dfe92e-4211-47df-9b55-cd3839c9af84",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "MenuMover1",
+    "name": "RestartMover",
     "eventList": [
         {
-            "id": "6a743b3c-9ec4-4ecc-9c79-5af6e1a32240",
+            "id": "961b4278-491a-40e8-80f9-4279afaf8594",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 32,
             "eventtype": 9,
-            "m_owner": "fd855e60-c71b-41e3-b1b6-0cee4848d7e8"
-        },
-        {
-            "id": "0aa5afd7-99e0-4915-9bca-2cae7dba7c32",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "fd855e60-c71b-41e3-b1b6-0cee4848d7e8"
+            "m_owner": "e6dfe92e-4211-47df-9b55-cd3839c9af84"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
