@@ -479,6 +479,14 @@
             }
         },
         {
+            "Key": "973cfbd5-ce73-4753-8489-2c5dc66896dd",
+            "Value": {
+                "id": "32881cb9-1e30-481d-9cbf-205716ea9a23",
+                "resourcePath": "sprites\\Dialog\\Dialog.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9794ccc5-1ece-40f2-be12-b24bacf12f84",
             "Value": {
                 "id": "04841277-443b-4fda-8c07-bc1eb0e272d0",
