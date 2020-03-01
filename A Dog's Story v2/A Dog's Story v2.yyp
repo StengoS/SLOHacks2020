@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0cade323-f42c-4116-97eb-36ee221b0c75",
+            "Value": {
+                "id": "99efa72f-4826-4837-940c-f9831b2cea8f",
+                "resourcePath": "scripts\\scr_title_click_check\\scr_title_click_check.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0e17c2b4-1906-48d6-a912-d0e79b060f15",
             "Value": {
                 "id": "1a75d7fd-3136-41b0-8676-b9941ebb2e3b",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "3e7015ee-bfdd-426d-b32d-57346393d7e8",
+            "Value": {
+                "id": "f169b027-c338-42dd-8459-b296c9c3667e",
+                "resourcePath": "rooms\\tutorial\\tutorial.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3fc09a56-c8bf-4614-9a97-23189883a0dc",
             "Value": {
                 "id": "21af87b0-e11f-4ce8-bb19-99dd5c6941ed",
@@ -219,6 +235,14 @@
             "Value": {
                 "id": "e5f37f7b-58e6-4e4f-9418-5cb3152cc7ec",
                 "resourcePath": "sprites\/Brownie\/Brownie.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "55c144d7-3e6c-40ea-9fcc-0798a2b55eb3",
+            "Value": {
+                "id": "7a01c199-124f-46dd-af2f-03fc96c9eb73",
+                "resourcePath": "sprites\\degrade\\degrade.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -541,7 +565,8 @@
         "2472319a-8f6a-48aa-8097-ab64b0267dd5",
         "7f89cb0c-52e7-40bf-bc85-e54f7bb70897",
         "dfae6494-74ae-4f31-b072-1e4209fe05ce",
-        "980c7992-0d20-4f29-9da2-8a4dd2bdee1c"
+        "980c7992-0d20-4f29-9da2-8a4dd2bdee1c",
+        "0cade323-f42c-4116-97eb-36ee221b0c75"
     ],
     "tutorial": ""
 }
