@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "1a0be46b-a2a5-46d3-b627-4501ce654014",
+            "Value": {
+                "id": "854d4ba1-10d7-4c48-b1e0-ee32211ce4f5",
+                "resourcePath": "objects\/BrownethPlayer\/BrownethPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1b1ab4ad-36a6-4ac2-8037-5c85332fb3e1",
             "Value": {
                 "id": "be0f8154-b208-4ed1-9a8a-b39984a522b5",
@@ -284,6 +292,14 @@
                 "id": "5369075a-c887-478d-8eba-bb37639ce20c",
                 "resourcePath": "objects\/BrownPlayer\/BrownPlayer.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ac42eb76-1fdb-4c59-a8e6-d78453235142",
+            "Value": {
+                "id": "8c233907-c3b2-4dc9-8eee-04f285212345",
+                "resourcePath": "sprites\/Office\/Office.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
