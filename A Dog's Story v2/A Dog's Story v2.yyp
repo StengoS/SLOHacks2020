@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "4adf34fc-9cba-4cac-bc7e-f1e0b0e94805",
+            "Value": {
+                "id": "a834f709-e4bc-490e-80af-7c4a831d1d7a",
+                "resourcePath": "sprites\/Can\/Can.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "52962c35-363b-440e-8701-126809babc2d",
             "Value": {
                 "id": "70feb973-cd55-4a0b-9f8c-044eab6230c8",
@@ -324,6 +332,14 @@
                 "id": "a101edf5-4342-4adb-905f-288c7392104c",
                 "resourcePath": "views\/c934865a-b6a8-4fbc-bb59-adf5edb616d1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cb2c645c-9ef6-418a-8098-9b819ced24f9",
+            "Value": {
+                "id": "14735910-7eee-4b29-b1af-dd59a4f18198",
+                "resourcePath": "objects\/CanObject\/CanObject.yy",
+                "resourceType": "GMObject"
             }
         },
         {
