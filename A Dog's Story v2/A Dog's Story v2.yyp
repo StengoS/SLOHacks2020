@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "605575df-f923-476b-bb79-ae23723fb3c3",
+            "Value": {
+                "id": "7b5ef343-4a41-48d9-8aa1-3f86565de827",
+                "resourcePath": "sprites\\Space\\Space.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "63a1406e-8627-4521-86bb-b01d0c81cc76",
             "Value": {
                 "id": "0b30b587-9e60-4afa-b775-8a5610ac2f24",
@@ -515,6 +523,14 @@
             "Value": {
                 "id": "94ff4297-5595-40c3-acce-6682a43f7fc9",
                 "resourcePath": "sprites\/PaperBall\/PaperBall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "da872698-4c6d-4a83-9bef-13647ae390ba",
+            "Value": {
+                "id": "68c55e05-62b1-48bf-9352-0b56b31faa9b",
+                "resourcePath": "sprites\\BetweenScreen\\BetweenScreen.yy",
                 "resourceType": "GMSprite"
             }
         },
