@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "dcfc406c-c67a-4808-b4fe-98147a1d8e8b",
+            "Value": {
+                "id": "6f2a0696-0698-4778-8a9d-7901a04e66fc",
+                "resourcePath": "datafiles_yy\/Pixeled.ttf.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "deeaffed-e1da-4a89-8652-0ab5dbf4a10d",
             "Value": {
                 "id": "f2fb29cd-87d7-4867-9f68-af9bd60f52a9",
